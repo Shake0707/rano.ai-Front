@@ -422,19 +422,19 @@ header.active {
 }
 
 .team_shakhriyor .img-frame {
-    background-image: url(./assets/shahriyor-6963b005.jpg)
+    background-image: url('./assets/shahriyor-6963b005.jpg')
 }
 
 .team_mehroj .img-frame {
-    background-image: url(./assets/mehroj-f1c73db9.jpg)
+    background-image: url('./assets/mehroj-f1c73db9.jpg')
 }
 
 .team_abbos .img-frame {
-    background-image: url(./assets/abbos-5caeed5c.jpg)
+    background-image: url('./assets/abbos-5caeed5c.jpg')
 }
 
 .team_aziz .img-frame {
-    background-image: url(./assets/aziz-e636d203.jpg)
+    background-image: url('./assets/aziz-e636d203.jpg')
 }
 
 .inTeam-user {
